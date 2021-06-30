@@ -1,5 +1,5 @@
-### [Aplikasi Perekaman Toko Buku](http://bookstore-adesug.herokuapp.com/) klik
-### [Diagram dan penjelasan](https://drive.google.com/file/d/1DsYMeY8FXMdUVxyXjaFOSRkWBNsQ4oB5/view?usp=sharing) klik
+### [Aplikasi surat keluar](http://uas-fp-tegar.herokuapp.com/)
+### [Diagram dan penjelasan](https://drive.google.com/file/d/142sX7uU6FSgStdnsp3DDjp-OEyi7pDAl/view?usp=sharing)
 #### By
 - Nama  : Tegar Prasetya
 - NIM   : 18090131
